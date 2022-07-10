@@ -10,7 +10,7 @@ p{
 
 #title{
     background-color: #d3d2d5;
-    padding-bottom: 5%;
+    padding-bottom: 4%;
 }
 
 h1{
@@ -36,18 +36,18 @@ h5{
     color: #d7cea1;
 }
 
-.navbar-brand{
-    font-family: 'Itim', cursive;
-    font-size: 3.5rem;
-    font-weight: bolder;
-}
 .nav-item{
-    padding: 1.7rem;
+    padding: 1.1% 4% 3%;
+    background-color:#d3d2d5 ;
+    
+}
+.nb-listz{
+    margin-left:20.2%;
 }
 
 .row{
     text-align: center;
-    padding-top: 4% ;
+    padding-top: 3% ;
 }
 
 .line-ii {
@@ -136,11 +136,11 @@ h5{
 }
 @media(max-width:650px){
     .p-y{
-        font-size: 2rem;
+        font-size: 1.75rem;
         margin-bottom: 3rem;
     }
     .b-d{
-        font-size: 2.7rem;
+        font-size: 2.3rem;
     }
 }
 
@@ -155,13 +155,18 @@ h5{
 }
 @media (max-width:1070px){
     .tit-img{
-        height:400px;
-        width:460px;
+        height:360px;
+        width:400px;
         position: static;
         margin-top: .2rem;
         transform: rotate(0);
     }
 }
+
+@media (max-width:1145px) and (min-width:991px){
+    .nb-listz{margin-left: 12%;}
+}
+
 
 
 .and-dwn{
