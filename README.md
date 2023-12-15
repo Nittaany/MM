@@ -24,6 +24,6 @@ Explore the website [here](https://nittaany.github.io/newme/)!
 
   
 
-# Feel free to reach out & [Connect](https://www.linkedin.com/in/satyam-c/)
+## Feel free to reach out & [Connect](https://www.linkedin.com/in/satyam-c/)
 
-# Explore. Engage. Evolve.
+## Explore. Engage. Evolve.
